@@ -9,8 +9,8 @@ function App() {
   /* 
     Update with your own Client Id and Api key 
   */
-  var CLIENT_ID = ""
-  var API_KEY = ""
+  const API_KEY = 'AIzaSyCrHd8XJ-iCFXPu-COhA6Sjz0NpMTBkO80';
+  const CLIENT_ID = "291729010291-kn570vf7746h803l5jqf90ddetb565dc.apps.googleusercontent.com"
   var DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"]
   var SCOPES = "https://www.googleapis.com/auth/calendar.events"
 
